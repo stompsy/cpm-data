@@ -1,7 +1,38 @@
 .DS_Store
 local-cdn/
 
-data/
+# 911 Call logs
+
+# Overdose logs (ESO EHR)
+2022-02_2025-01_eso_calls.xlsx
+2022-02_2025-01_eso_calls_clean.csv
+2022-02_2025-01_eso_calls_clean.xlsx
+
+# Overdose logs (Community Paramedicine)
+feb2022.jan2025.csv
+feb2022.jan2025_clean.csv
+feb2022.jan2025_clean.xlsx
+
+# Encounter logs (Community Paramedicine)
+encounters.xlsx
+encounters_clean.csv
+encounters_clean.xlsx
+
+# Patient logs (Community Paramedicine)
+patients.xlsx
+patients_clean.csv
+patients_clean.xlsx
+
+# PORT Referral logs (Community Paramedicine)
+referrals_port.xlsx
+referrals_port_clean.csv
+referrals_port_clean.xlsx
+
+# Referral logs (Community Paramedicine)
+referrals.xlsx
+referrals_clean.csv
+referrals_clean.xlsx
+
 
 # Logs
 logs
