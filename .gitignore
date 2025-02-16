@@ -1,7 +1,14 @@
 .DS_Store
 local-cdn/
 
+# Grant deliverables
+UW Fire Innovation Grant Nov-Jan 2024-25.docx
+UW Fire Innovation Grant Nov-Jan 2024-25.pdf
+Toolkit for OD Response (Draft).docx
+Outline for Fire Department Overdose Response with Community Paramedics.docx
+
 # 911 Call logs
+nov012024-jan312025_911calls.csv
 
 # Overdose logs (ESO EHR)
 2022-02_2025-01_eso_calls.xlsx
@@ -14,6 +21,7 @@ feb2022.jan2025_clean.csv
 feb2022.jan2025_clean.xlsx
 
 # Encounter logs (Community Paramedicine)
+encounters.csv
 encounters.xlsx
 encounters_clean.csv
 encounters_clean.xlsx
